@@ -1,0 +1,12 @@
+style: is-light
+items:
+  - title: Focus on MVP
+    subtitle: The real value of an Minimum Viable Product lies in the learning opportunities it provides. I look at MVPs with with the Go-to-Market strategy in mind.
+    icon: fa-paint-brush
+  - title: Raodmaps
+    subtitle: As an expert in roadmap planning, I look at roadmaps as a framework for success and a true north to keep working towards
+    icon: fa-map
+  - title: User journey
+    subtitle: In any good product, key to success is ensures an invaluable and essential view of your potential and existing customers.
+    icon: fa-user-plus
+    
