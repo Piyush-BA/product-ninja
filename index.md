@@ -32,3 +32,10 @@ ANALYZING DATA: A&B testing, trends and user behavior
 * E invoicing
 
 For details, please see the [Project documentation](/bulma-clean-theme//) WIP
+
+
+### Contact
+```yml
+Email: heypiyush@outlook.com
+```
+[Linkedin](https://www.linkedin.com/in/piyush-analyst/)
