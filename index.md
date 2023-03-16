@@ -31,4 +31,4 @@ ANALYZING DATA: A&B testing, trends and user behavior
 * Content management
 * E invoicing
 
-For details, please see the [Project documentation](/bulma-clean-theme/docs/)
+For details, please see the [Project documentation](/bulma-clean-theme//) WIP
