@@ -18,6 +18,7 @@ ROADMAP PLANNING: GTM/MVP
 CROSS TEAM COLLABORATION: Business and Tech
 USER JOURNEY MANAGEMENT: End to end cycle
 PRODUCT STRATEGY: Pricing and feature ananlysis
+ANALYZING DATA: A&B testing, trends and user behavior
 ```
 
 ## Domain expertise 
